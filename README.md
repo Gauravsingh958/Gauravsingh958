@@ -54,7 +54,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Gauravsingh958/Gauravsingh958/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Gauravsingh958/Gauravsingh958/output/github-snake.svg)
 
 ---
 
