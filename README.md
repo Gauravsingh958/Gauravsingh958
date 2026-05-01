@@ -37,7 +37,7 @@
 *   **Tech Stack:** Python, Machine Learning, Flask
 *   **Description:** Developed a predictive model using a cardio dataset to identify heart disease risks and deployed it using the Flask framework.
 *   **Key Skills:** Data Preprocessing, Model Deployment, Python.
-*   [View Project Repository]([https://github.com/ML_project](https://github.com/Gauravsingh958/ML_project.git))
+*   [View Project Repository](https://github.com/ML_project)
 
 ---
 
