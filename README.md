@@ -66,7 +66,7 @@
 
 ## 📫 Connect with Me
 
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: gauravsirari890@gmail.com
 
 ---
 
