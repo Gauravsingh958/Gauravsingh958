@@ -1,52 +1,58 @@
 # Hi 👋 I'm Gaurav
 
-💻 Data Science Student | ML Enthusiast | Aspiring AI Engineer  
-📊 Python | SQL | Power BI | Machine Learning  
-🚀 Currently learning NLP, Deep Learning
+🚀 Data Science Student
+💻 Passionate about Machine Learning, Data Analysis  
+📊 Skilled in Python, SQL, Power BI  
 
 ---
 
 ## 🧠 About Me
-- 🎓 Data Science student passionate about AI
-- 🤖 Love building Machine Learning projects
-- 📊 Skilled in Data Analysis & Visualization
-- 🚀 Always learning new tech
+- 🎓 Currently learning Data Science 
+- 🤖 Building Machine Learning projects
+- 📊 Love working with data & extracting insights
+- 🚀 Exploring NLP & Deep Learning
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
-- Python 🐍
-- SQL 🗄️
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ### 📊 Data & AI
-- Machine Learning 🤖
-- Data Analysis 📈
-
+![Machine Learning](https://img.shields.io/badge/MachineLearning-FF6F00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/DataAnalysis-00C4CC?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge)
 
 ### 🧰 Tools
-- Git & GitHub
-- Jupyter Notebook
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## 📌 Projects
 
-- ❤️ Cardio Disease Prediction Model (ML)
-- 📊 AI Dataset Analyzer Tool
+- ❤️ Cardio Disease Prediction (Machine Learning)
+- 📊 AI Dataset Analyzer
 
-👉 More coming soon...
+👉 More projects coming soon...
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravsingh958&show_icons=true&theme=radical)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravsingh958&show_icons=true&theme=radical)
 
 ---
 
-## 🔥 Most Used Languages
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauravsingh958&theme=radical)
+
+---
+
+## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsingh958&layout=compact&theme=radical)
 
@@ -54,12 +60,18 @@
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/Gauravsingh958/Gauravsingh958/output/github-snake.svg)
+![snake gif](https://github.com/Gauravsingh958/Gauravsingh958/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: yourmail@gmail.com
 
 ---
 
 ## ⚡ Fun Fact
-⚡ I love turning data into insights!
+I enjoy turning raw data into meaningful insights 
 
 ---
 
