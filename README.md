@@ -33,21 +33,11 @@
 
 ## 📌 Projects
 
----
-
-## 🚀 Featured Projects
-
 ### 🏥 Heart Disease Prediction Model
 *   **Tech Stack:** Python, Machine Learning, Flask
 *   **Description:** Developed a predictive model using a cardio dataset to identify heart disease risks and deployed it using the Flask framework.
 *   **Key Skills:** Data Preprocessing, Model Deployment, Python.
-*   [View Project Repository](https://github.com/Gauravsingh958)
-
----
-
-## 📚 Currently Leveling Up In:
-*   **Deep Learning & NLP:** Exploring advanced neural networks and language processing.
-*   **Advanced ML Deployment:** Focusing on making models more scalable.
+*   [View Project Repository]([https://github.com/ML_project](https://github.com/Gauravsingh958/ML_project.git))
 
 ---
 
