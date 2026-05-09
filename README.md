@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Currently learning Data Science 
+- 🎓 Currently learning Data Science
 - 🤖 Building Machine Learning projects
 - 📊 Love working with data & extracting insights
 - 🚀 Exploring NLP & Deep Learning
@@ -47,19 +47,22 @@
 
 ## 📊 GitHub Stats
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravsingh958&show_icons=true&theme=radical&abc=123)
+<!-- Updated to a more stable mirror link -->
+![Gaurav's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Gauravsingh958&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauravsingh958&theme=radical)
+<!-- Added cache buster v=1 to force refresh the streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauravsingh958&theme=radical&v=1)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsingh958&layout=compact&theme=radical&abc=123)
+<!-- Updated to a more stable mirror link -->
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gauravsingh958&layout=compact&theme=radical&hide_border=true)
 
 ---
 
@@ -76,7 +79,7 @@
 ---
 
 ## ⚡ Fun Fact
-I enjoy turning raw data into meaningful insights 
+I enjoy turning raw data into meaningful insights  
 
 ---
 
