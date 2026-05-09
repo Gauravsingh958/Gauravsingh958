@@ -47,7 +47,7 @@
 
 ## 📊 GitHub Stats
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravsingh958&show_icons=true&theme=radical)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravsingh958&show_icons=true&theme=radical&abc=123)
 
 ---
 
@@ -59,7 +59,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsingh958&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravsingh958&layout=compact&theme=radical&abc=123)
 
 ---
 
