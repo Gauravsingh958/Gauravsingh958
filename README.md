@@ -14,32 +14,18 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 👤 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; 
-### 📚 Libraries & Frameworks
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp; 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp; 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) &nbsp;
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) &nbsp; 
-![Seaborn](https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=Seaborn&logoColor=white) &nbsp; 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+#### 👤 Languages
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp; ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp; 
+#### 📚 Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) &nbsp; ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) &nbsp; ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) &nbsp; ![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=Matplotlib&logoColor=white) &nbsp; ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=Seaborn&logoColor=white) &nbsp; ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 📊 Data & AI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Orange?style=for-the-badge) &nbsp; 
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Teal?style=for-the-badge) &nbsp; 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) &nbsp; 
-![NLP](https://img.shields.io/badge/NLP-LightBlue?style=for-the-badge) &nbsp; 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Red?style=for-the-badge)
+#### 📊 Data & AI
+![Machine Learning](https://img.shields.io/badge/Machine--Learning-3776AB?style=for-the-badge) &nbsp; ![Data Analysis](https://img.shields.io/badge/Data--Analysis-4479A1?style=for-the-badge) &nbsp; ![Power BI](https://img.shields.io/badge/Power--BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) &nbsp; ![Deep Learning](https://img.shields.io/badge/Deep--Learning-E34F26?style=for-the-badge)
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp; 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp; 
+#### 🧰 Tools & Platforms
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) &nbsp; ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) &nbsp; ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) &nbsp; ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 📌 Projects
 
