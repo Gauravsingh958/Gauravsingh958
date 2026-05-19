@@ -52,14 +52,17 @@
 
 👉 More projects coming soon...
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Gauravsingh958&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Gauravsingh958&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Gauravsingh958&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---## 📊 GitHub Stats
+<!-- Updated to a more stable mirror link -->
+![Gaurav's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Gauravsingh958&show_icons=true&theme=radical&hide_border=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Gauravsingh958&icon=0&color=0)](https://visitcount.itsvg.in)
+--- ## 🔥 Streak Stats
+<!-- Added cache buster v=1 to force refresh the streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauravsingh958&theme=radical&v=1)
+
+--- ## 💻 Most Used Languages 
+<!-- Updated to a more stable mirror link -->
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gauravsingh958&layout=compact&theme=radical&hide_border=true)
 
 
 ---
